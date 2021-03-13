@@ -57,8 +57,7 @@
       <br>
       <div class="row col-5">
       <div class="container-fluid justify-content-center">
-        <input type="submit" value="Buscar" href="#"></a>
-      </div>
+      <a href="buscarinmueble.php" class="btn btn-primary"> Buscar</a>
       </div>
       </div>
     </section>
